@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/myTemplate",
+  "name": "@umi-block",
   "version": "0.0.1",
   "description": "sd",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "name": "frank",
     "email": ""
   },
-  "repository": "https://github.com/asd116725/umi-blocks/myTemplate",
+  "repository": "https://github.com/asd116725/umi-blocks",
   "scripts": {
     "dev": "umi dev"
   },
