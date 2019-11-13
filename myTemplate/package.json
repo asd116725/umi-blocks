@@ -1,13 +1,13 @@
 {
-  "name": "@umi-block",
+  "name": "@umi-block/myTemplate",
   "version": "0.0.1",
-  "description": "sd",
+  "description": "123",
   "main": "src/index.js",
   "authors": {
     "name": "frank",
     "email": ""
   },
-  "repository": "https://github.com/asd116725/umi-blocks",
+  "repository": "https://github.com/asd116725/umi-blocks/myTemplate",
   "scripts": {
     "dev": "umi dev"
   },
