@@ -1,7 +1,0 @@
-{
-  "name": "my-template",
-  "description": "",
-  "dependencies": {
-    "umi-request": "^1.0.0"
-  }
-}
